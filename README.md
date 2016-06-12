@@ -3,6 +3,9 @@
 
 ## FED
 
+> JavaScript
+前端资源大全中文版 https://github.com/jobbole/awesome-javascript-cn
+
 ## BED
 
 ## Automatic Construction
