@@ -6,6 +6,8 @@
 > JavaScript
 前端资源大全中文版 https://github.com/jobbole/awesome-javascript-cn
 
+基于jquery的视差库 https://github.com/cameronmcefee/plax;
+
 ## BED
 
 ## Automatic Construction
